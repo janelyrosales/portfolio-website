@@ -1,0 +1,44 @@
+---
+title: "Campaign Insights Dashboard"
+image: "https://placehold.co/600x400?text=Campaign+Dashboard"
+categories: [Dashboarding, Marketing Analytics, Data Visualization, Performance Metrics, Customer Insights]
+index: 1
+---
+
+## Overview  
+This project focused on analyzing and visualizing digital marketing campaign performance using a dashboard. The goal was to evaluate how different marketing channels performed in terms of engagement, conversions, and return on investment (ROI), and to identify opportunities for optimization.
+
+Key metrics such as click-through rate (CTR), conversion rate, cost per acquisition (CPA), and overall ROI were tracked across multiple campaign channels.
+
+---
+
+## Tools Used  
+- R (data cleaning and analysis)  
+- Tableau / Data visualization tools  
+- Excel (initial data exploration)
+
+---
+
+## Key Insights  
+- Campaign performance varied significantly across channels, with some delivering higher engagement but lower conversions.  
+- Certain audience segments showed stronger conversion behavior, indicating opportunities for better targeting.  
+- Optimizing ad placement and messaging improved overall campaign efficiency.
+
+---
+
+## Learning Outcomes  
+
+### Analytics Skills
+- Built dashboards to track marketing KPIs  
+- Interpreted campaign performance trends over time  
+- Identified patterns in customer engagement and conversion behavior  
+
+### Technical Skills
+- Data wrangling and cleaning in R  
+- Visualization of marketing metrics  
+- Translating raw data into business insights  
+
+---
+
+## Recommendation  
+Future campaigns should focus on improving targeting efficiency by prioritizing high-performing segments and reallocating budget toward the most effective channels.

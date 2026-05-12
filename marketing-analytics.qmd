@@ -1,0 +1,51 @@
+---
+title: "Marketing Analytics"
+listing: 
+  contents: listings
+  type: grid
+  categories: true
+  sort: 
+    - "index desc"
+---
+
+##  Campaign Performance Analysis
+
+**Goal:** Evaluate the effectiveness of a digital marketing campaign.
+
+**What I did:**
+- Analyzed engagement and conversion metrics
+- Reviewed click-through rates (CTR)
+- Identified top-performing channels
+
+**Key Insight:**
+Improved targeting increased engagement and reduced cost per conversion.
+
+---
+
+## Customer Segmentation
+
+**Goal:** Identify different customer groups based on behavior.
+
+**What I did:**
+- Grouped customers using behavioral data
+- Analyzed purchase patterns
+- Identified high-value segments
+
+**Key Insight:**
+A small segment of customers drives a large portion of revenue.
+
+---
+
+## SEO / Engagement Analysis
+
+**Goal:** Understand website traffic and user behavior.
+
+**What I did:**
+- Reviewed Google Analytics data
+- Measured bounce rate and session duration
+- Identified traffic sources
+
+**Key Insight:**
+Organic search was the strongest traffic driver.
+
+---

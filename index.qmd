@@ -1,0 +1,48 @@
+---
+title: "Hi, I'm Janely Rosales"
+---
+
+::: {.columns}
+::: {.column width="30%"}
+::: {style="text-align: center;"}
+![](images/profilepic.jpg){width=250px style="border-radius: 50%;"}
+:::
+:::
+
+::: {.column width="70%" style="padding-left: 3rem;"}
+I am a motivated and detail-oriented bilingual (Spanish and English) business student with a strong interest in marketing analytics, digital strategy, and data-driven decision making.
+
+I enjoy turning data into actionable insights that help improve marketing performance and customer engagement.
+:::
+:::
+
+## About Me
+
+I currently hold an Associate of Science degree from Citrus College and am completing my Bachelor’s degree in Business Marketing Management at California State Polytechnic University, Pomona.
+
+My career interests include:
+- Marketing Analytics  
+- Digital Marketing Strategy  
+- Consumer Behavior  
+- Data Visualization  
+
+---
+
+## Skills
+
+- Google Analytics  
+- Excel  
+- Marketing Strategy  
+- Data Visualization  
+- Basic R / Quarto  
+
+---
+
+## Let's Connect
+
+📧 Email: janelyr@cpp.edu  
+🔗 LinkedIn: https://www.linkedin.com/in/janelyrosales
+
+---
+
+*Welcome to my portfolio.*

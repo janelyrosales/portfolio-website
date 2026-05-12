@@ -1,0 +1,32 @@
+{
+    "id": "46D8C9EB",
+    "path": "~/Desktop/portfolio-website-template/resume.qmd",
+    "project_path": "resume.qmd",
+    "type": "quarto_markdown",
+    "hash": "415582913",
+    "contents": "",
+    "dirty": false,
+    "created": 1778392903536.0,
+    "source_on_save": false,
+    "relative_order": 6,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "25,0",
+        "scrollLine": "34",
+        "rmdVisualMode": "true",
+        "rmdVisualWrapConfigured": "true",
+        "docOutlineVisible": "1",
+        "rmdVisualCollapsedChunks": "",
+        "rmdVisualModeLocation": "177:0",
+        "docOutlineSize": "110"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1778393983,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1778393983046,
+    "read_only": false,
+    "read_only_alternatives": []
+}

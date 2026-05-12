@@ -1,0 +1,49 @@
+---
+title: "Marketing Analytics Portfolio"
+format: revealjs
+---
+
+## Introduction
+Janely Rosales  
+Marketing Analytics Student  
+
+---
+
+## About Me
+- Focused on marketing analytics and digital strategy  
+- Passionate about turning data into insights  
+- Interested in customer behavior and campaign performance  
+
+---
+
+## Project 1: Campaign Analysis
+- Analyzed CTR, conversions, and ROI  
+- Identified best-performing marketing channels  
+- Improved targeting recommendations  
+
+---
+
+## Project 2: Customer Segmentation
+- Grouped customers based on behavior  
+- Identified high-value segments  
+- Improved marketing targeting strategy  
+
+---
+
+## Dashboard Insights
+- Built marketing dashboards to track KPIs  
+- Analyzed engagement and conversion trends  
+- Visualized campaign performance over time  
+
+---
+
+## Key Skills
+- Google Analytics  
+- Data Visualization  
+- Marketing Strategy  
+- R / Excel  
+
+---
+
+## Conclusion
+Marketing analytics helps businesses make data-driven decisions that improve performance and customer engagement.

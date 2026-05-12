@@ -1,0 +1,41 @@
+{
+  "resume.qmd": {
+    "resume.html": "957c9266"
+  },
+  "listings/02-seo-benchmarking-analysis.qmd": {
+    "02-seo-benchmarking-analysis.html": "20f27c8e"
+  },
+  "listings/03-customer-segmentation-clustering.qmd": {
+    "03-customer-segmentation-clustering.html": "64a31b60"
+  },
+  "listings/04-funnel-attribution-model.qmd": {
+    "04-funnel-attribution-model.html": "3981ba45"
+  },
+  "listings/05-social-media-engagement.qmd": {
+    "05-social-media-engagement.html": "650a1edf"
+  },
+  "listings/01-campaign-insights-dashboard.qmd": {
+    "01-campaign-insights-dashboard.html": "77e90c6e"
+  },
+  "resume/Resume.Rmd": {
+    "Resume.html": "5e5a0c50"
+  },
+  "strategic-marketing.qmd": {
+    "strategic-marketing.html": "3ea929a5"
+  },
+  "index.qmd": {
+    "index.html": "35b264ed"
+  },
+  "contact-us/thank-you.qmd": {
+    "thank-you.html": "eebb1681"
+  },
+  "contact-us/contact-us.qmd": {
+    "contact-us.html": "c2a2c43d"
+  },
+  "marketing-analytics.qmd": {
+    "marketing-analytics.html": "b36e63b5"
+  },
+  "presentation.qmd": {
+    "presentation.html": "25dc931b"
+  }
+}

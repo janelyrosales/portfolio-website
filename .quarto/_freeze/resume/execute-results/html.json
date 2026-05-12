@@ -1,0 +1,17 @@
+{
+  "hash": "e9183380862033486f9dd3f62a3fbb00",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"Résumé\"\n---\n\n\n::: {.cell}\n\n:::\n\n\nYou can view a PDF version of my résumé [here](resume/rosalesresume.pdf).\n\n# Professional Summary\n\nResults-oriented marketing and analytics professional with a strong foundation in data analysis, digital strategy, and performance reporting. Skilled in leveraging analytics tools and programming languages to uncover insights and support decision-making across cross-functional teams.\n\n# Technical Skills\n\n-   **Programming Languages:** R and Quarto\\\n-   **Web Technologies:** HTML, CSS/SCSS, JavaScript, Quarto, CMS Platforms, Analytics Tools\n\n# Education\n\n| Degree | Year | College / Department | Institution |\n|------------------|------------------|-------------------|------------------|\n| Business Marketing Management | 2025 – 2026 | Business Administration | California Polytechnic University, Pomona |\n| Associates in Science | 2019– 2024 | Biology | Citrus College |\n\n# Work Experience\n\n### **Costco Wholesale**, Cashier Assistant, Membership & Refunds Associate\n\n*\\[July 2019 - Present\\]*\n\n-   Handle returns, exchanges, and membership inquiries with accuracy and professionalism\\\n    \\\n\n-   Provide fast, friendly service to ensure member satisfaction\\\n    \\\n\n-   Collaborate with team members to maintain efficiency and uphold company standards\\\n    \\\n\n-   Demonstrate initiative and leadership in high-volume retail settings\n\n------------------------------------------------------------------------\n",
+    "supporting": [
+      "resume_files"
+    ],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}
