@@ -28,18 +28,32 @@
     "text": "Template"
   },
   {
-    "objectID": "googleanalytics.html#website-performance-overview",
-    "href": "googleanalytics.html#website-performance-overview",
-    "title": "Google Analytics Dashboard",
-    "section": "Website Performance Overview",
-    "text": "Website Performance Overview\nThis page shows live website traffic data collected using Google Analytics 4.\n\nKey Metrics (Realtime)\n\nActive users (last 30 minutes): see GA4 Realtime report\n\nTop pages: Home, Resume, Projects\n\nDevice types: Desktop / Mobile (tracked automatically)"
+    "objectID": "googleanalytics.html#realtime-website-activity",
+    "href": "googleanalytics.html#realtime-website-activity",
+    "title": "Google Analytics Insights",
+    "section": "Realtime Website Activity",
+    "text": "Realtime Website Activity\n\nGoogle Analytics 4 realtime reporting was used to monitor live user activity across the portfolio website. During the reporting period, the website recorded 11 active users within the last 30 minutes and 2 users within the last 5 minutes.\nThe realtime dashboard also highlighted the most frequently viewed pages, including the homepage, résumé section, and marketing analytics projects. User interaction events such as page views, scrolling activity, session starts, and file downloads were successfully tracked, demonstrating that engagement measurement was functioning correctly across the site.\nThese analytics insights provide valuable information regarding visitor behavior, content engagement, and navigation patterns throughout the portfolio website."
   },
   {
-    "objectID": "googleanalytics.html#live-analytics",
-    "href": "googleanalytics.html#live-analytics",
-    "title": "Google Analytics Dashboard",
-    "section": "Live Analytics",
-    "text": "Live Analytics\nYou can view full analytics here:\nhttps://analytics.google.com"
+    "objectID": "googleanalytics.html#audience-location-insights",
+    "href": "googleanalytics.html#audience-location-insights",
+    "title": "Google Analytics Insights",
+    "section": "Audience Location Insights",
+    "text": "Audience Location Insights\n\nGoogle Analytics data showed that the majority of website traffic originated from the United States, which represented the primary audience during the testing and deployment phase. Additional traffic was detected from the Philippines, demonstrating the website’s accessibility to international users.\nThe analytics dashboard also tracked real-time visitor activity, with 11 active users recorded during the reporting period. This confirmed successful integration of Google Analytics 4 and verified that user interactions were being collected accurately across the portfolio website."
+  },
+  {
+    "objectID": "googleanalytics.html#device-insights",
+    "href": "googleanalytics.html#device-insights",
+    "title": "Google Analytics Insights",
+    "section": "Device Insights",
+    "text": "Device Insights\n\nGoogle Analytics technology reports were used to evaluate how visitors accessed the portfolio website across platforms and devices. During the reporting period, all recorded traffic originated from web-based users, confirming that the website was successfully optimized for browser access.\nThe analytics data also monitored device categories, browsers, operating systems, and screen resolutions to better understand the technical behavior of visitors. These metrics help evaluate user accessibility and support future website optimization for desktop and mobile experiences."
+  },
+  {
+    "objectID": "googleanalytics.html#key-insights",
+    "href": "googleanalytics.html#key-insights",
+    "title": "Google Analytics Insights",
+    "section": "Key Insights",
+    "text": "Key Insights\n\nNavigation traffic was concentrated on portfolio project sections.\nReal-time engagement confirmed successful Google Analytics integration."
   },
   {
     "objectID": "strategic-marketing.html",
